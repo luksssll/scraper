@@ -24,7 +24,7 @@ A Python web scraper that collects book titles and prices from
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/luksssll/scraper.git
 cd scraper
 ```
 
